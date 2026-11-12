@@ -1,11 +1,17 @@
 # 💫 About Me:
 💻 Fourth-Year Computer Science Student @ OSU<br>
 📊 Applied Focus in Data Science & Statistics Minor<br>
-🤖 AI/ML Research Intern @ Oregon Health & Science University<br>
-☁️ Cloud Infrastructure & DevOps Intern @ Stantec<br>
-🤝 Prev. President of Society of Asian Scientists and Engineers (SASE)<br>
+
+🏫 Teaching Assistant for College of Engineering @ OSU<br>
 📚 Peer Tutor for TRIO Student Support Services<br>
-🌱 Interested in Software Engineering, Data, and AI
+🪁 Aspen Ideas: Rising Generations Fellow<br>
+
+
+🤖 Prev. AI/ML Research Intern @ Oregon Health & Science University<br>
+☁️ Prev. Cloud Infrastructure Engineer Intern @ Stantec<br>
+🤝 Prev. President of Society of Asian Scientists and Engineers (SASE)<br>
+
+🌱 Interested in Software Engineering, Data, Cloud, and AI infrastructure !!!
 
 
 ## 🌐 Socials:
